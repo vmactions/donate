@@ -16,3 +16,11 @@
 </ol>
 
 
+<h1>Supporters: </h1>
+<ol>
+<li>
+<p>Donated by <a href="https://console.vtexs.com/?affid=1557">VTEXS.com</a></p>
+
+</li>
+
+</ol>
